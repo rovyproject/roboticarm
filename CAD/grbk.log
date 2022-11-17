@@ -1,0 +1,77 @@
+STEP translation to Solid Edge
+Date: Thursday,November 11,2021 10:42PM
+Source File: C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\grbk.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2016
+
+Hardware:
+Processor: AMD Ryzen 5 3600X 6-Core Processor             
+Operating System: Windows 10 Professional
+Installed Memory: 31.91 GB
+
+Software Information
+Parasolid Version: 31.1.255
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.48
+Solid Edge Version: 220.00.00.104 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD
+Import Enable Default Output Path: On
+Import PMI: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\grbk.asm
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\g1k.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\dd1k.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\dd2k.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\cenek.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\cenek.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek2.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek2.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\ek.par
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\dd3y.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO.asm
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO, BODY, BOTTOM.par
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO, BODY, MIDDLE.par
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO, BODY, TOP.par
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO, CONNECTOR.par
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\TOWER PRO MG-995, ANALOG SERVO, SHAFT.par
+|  |--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\pan cross head_am_B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed PHMS --10N.par
+|  |--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\pan cross head_am_B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed PHMS --10N.par
+|  |--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\pan cross head_am_B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed PHMS --10N.par
+|  |--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\pan cross head_am_B18.6.7M - M2 x 0.4 x 10 Type I Cross Recessed PHMS --10N.par
+|--+Total Parts: 21
+|--+Assemblies: 0
+|--+Solid Bodies: 21
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\round mount.par
+|--+Reusing File C:\Users\Daniel Guerrero\Documents\The Rovee Project\Robotic arm\CAD\round mount.par
++Total Parts: 23
++Assemblies: 1
++Solid Bodies: 22
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 03
